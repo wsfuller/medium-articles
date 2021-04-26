@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
-import { ThemeProvider } from '@fluentui/react-theme-provider';
-import { PrimaryButton, Stack, Toggle } from '@fluentui/react';
+import { PrimaryButton, Stack, ThemeProvider, Toggle } from '@fluentui/react';
 
 import { darkTheme, lightTheme } from '../../themes';
 
